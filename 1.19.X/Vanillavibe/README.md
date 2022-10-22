@@ -46,7 +46,7 @@
 </td>
 </tr>
 <tr style="height: 100px;">
-<td style="width: 70%; height: 100px;"><a href="https://github.com/ModsforModpacks/Vanillavibe/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/o0fSkHc.png" width="200" height="115"/>
+<td style="width: 70%; height: 100px;"><a href="https://github.com/ModsforModpacks/Vanillavibe/"><img style="display: block; margin-left: auto; margin-right: auto;" src="" width="200" height="115"/>
 </a></td>
 </tr>
 </tbody>
