@@ -1,0 +1,12 @@
+{
+  "type": "indrev:compress",
+  "ingredients": {
+    "item": "techreborn:sawdust",
+    "count": 4
+  },
+  "output": {
+    "item": "indrev:planks",
+    "count": 1
+  },
+  "processTime": 300
+}

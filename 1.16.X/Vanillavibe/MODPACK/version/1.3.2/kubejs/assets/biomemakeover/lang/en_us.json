@@ -1,0 +1,13 @@
+{
+        "enchantment.biomemakeover.decay_curse.desc":"Make your items degrade faster.",
+        "enchantment.biomemakeover.sliding_curse.desc":"Make you slide around sometimes.",
+        "enchantment.biomemakeover.depth_curse.desc":"Drag you to the ocean floor.",
+        "enchantment.biomemakeover.flammability_curse.desc":"Set you on fire for longer.",
+        "enchantment.biomemakeover.insomnia_curse.desc":"Make phantoms appear faster.",
+        "enchantment.biomemakeover.suffocation_curse.desc":"Reduce your maximum oxygen underwater.",
+        "enchantment.biomemakeover.buckling_curse.desc":"Increase your fall damage taken.",
+        "enchantment.biomemakeover.inaccuracy_curse.desc":"Reduce your accuracy with range weapons.",
+        "enchantment.biomemakeover.conductivity_curse.desc":"Attract lightning during storms.",
+        "enchantment.biomemakeover.unwieldiness_curse.desc":"Slow down your attack speed.",
+        "enchantment.biomemakeover.enfeeblement_curse.desc":"Reduce your max health."
+}

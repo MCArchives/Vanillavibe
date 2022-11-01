@@ -1,0 +1,16 @@
+{
+  "type": "indrev:infuse",
+  "ingredients": [
+    {
+      "item": "croptosis:rotten_pile"
+    },
+    {
+      "item": "croptosis:rotten_pile"
+    }
+  ],
+  "output": {
+    "item": "minecraft:leather",
+    "count": 8
+  },
+  "processTime": 400
+}

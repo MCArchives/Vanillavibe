@@ -1,0 +1,13 @@
+{
+  "type": "indrev:infuse",
+  "ingredients": [
+    {
+      "item": "architects_palette:rotten_flesh_block"
+    }
+  ],
+  "output": {
+    "item": "minecraft:leather",
+    "count": 9
+  },
+  "processTime": 350
+}

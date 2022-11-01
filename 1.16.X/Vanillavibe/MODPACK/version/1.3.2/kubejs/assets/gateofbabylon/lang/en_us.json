@@ -1,0 +1,9 @@
+{
+	"enchantment.gateofbabylon.dragon_slash.desc":"Leaves a trail which deals damage to mobs that step inside it.",
+	"enchantment.gateofbabylon.flame_slash.desc":"Sets mobs on fire.",
+	"enchantment.gateofbabylon.lunging.desc":"If you enchant Rapier, the range you travel will be increased.",
+	"enchantment.gateofbabylon.quickdraw.desc":"Allows you to draw your bow faster.",
+	"enchantment.gateofbabylon.smashing.desc":"The range, damage, and knockback of the shockwave will be increased.",
+	"enchantment.gateofbabylon.thunder_slash.desc":"Summons thunderbolts to smite entities you hit.",
+	"enchantment.gateofbabylon.vampire_slash.desc":"Heals you for a single heart for each mob hit."
+}

@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/template_shulker_box",
+  "textures": {
+    "particle": "block/shulker_box"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/shulkers/lime"
+    }
+  ]
+}

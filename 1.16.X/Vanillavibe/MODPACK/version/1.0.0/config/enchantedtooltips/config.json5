@@ -1,0 +1,30 @@
+{
+	// Should the enchant info be displayed on enchanted book
+	"enableForBooks": true,
+	// Should the enchant info be displayed on enchanted tools
+	"enableForItems": false,
+	// Should the enchant info be displayed in Enchanting Table
+	"enableForEnchantTable": false,
+	// Display 'Press for info' for enchant info
+	"displayPressForInfo": false,
+	// Always display the Enchant Information
+	"alwaysShowEnchantInfo": true,
+	// Display missing enchantment data
+	"displayMissingEnchant": true,
+	// Should the enchant info be sorted alphabetically
+	"sortEnchantInfo": false,
+	// Hide enchant lvl if only I
+	"hideLvlI": true,
+	// Display 'Description' in tooltip
+	"displayDescription": true,
+	// Display 'Max level' in tooltip
+	"displayMaxLvl": false,
+	// Display 'Max level' after title
+	"combineLvlMaxLvl": false,
+	// Display 'From' in tooltip
+	"displayModFrom": false,
+	// Display 'Applies to' in tooltip
+	"displayAppliesTo": false,
+	// Display 'Applies to' only on books
+	"appliesToBookOnly": false
+}

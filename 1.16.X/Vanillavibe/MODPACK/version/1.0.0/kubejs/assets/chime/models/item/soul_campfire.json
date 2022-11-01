@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/soul_campfire"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/soul_campfire"
+    }
+  ]
+}

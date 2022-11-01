@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:block/barrel",
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/barrel_open"
+    }
+  ]
+}

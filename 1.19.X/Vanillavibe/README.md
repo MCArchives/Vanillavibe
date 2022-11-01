@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/mod%20loader-fabric-yellow?style=flat-round)](https://fabricmc.net/)
 [![](https://img.shields.io/static/v1?label=status&message=not-released&color=orange)](https://vanillavibe.website/)
 [![](https://img.shields.io/static/v1?label=status&message=poor&color=pink)](https://vanillavibe.website/)
-[![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/ModsforModpacks/Vanillavibe/blob/main/1.19.X/Vanillavibe/LICENSE.md)
+[![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/szumaster1/Vanillavibe/blob/main/1.19.X/Vanillavibe/LICENSE.md)
 
 <table style="border-collapse: collapse; width: 38.843%; height: 260px;" border="1">
 <tbody>
@@ -16,12 +16,12 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 70%; height: 18px; text-align: center;">
-<div align="center"><a href="https://github.com/ModsforModpacks/Vanillavibe/blob/main/1.19.X/Vanillavibe/MODPACK/MODLIST.md"><div align="center">Modlist</a></td>
+<div align="center"><a href="https://github.com/szumaster1/Vanillavibe/blob/main/1.19.X/Vanillavibe/MODPACK/MODLIST.md"><div align="center">Modlist</a></td>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 70%; height: 18px; text-align: center;">
-<div align="center"><a href="https://github.com/ModsforModpacks/Vanillavibe/blob/main/DEVELOPERS.md"><div align="center">Developers</a></td>
+<div align="center"><a href="https://github.com/szumaster1/Vanillavibe/blob/main/DEVELOPERS.md"><div align="center">Developers</a></td>
 </td>
 </tr>
 <tr style="height: 18px;">
@@ -31,22 +31,22 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 70%; height: 18px; text-align: center;">
-<div align="center"><a href="https://github.com/ModsforModpacks/Vanillavibe"><div align="center">Project</a></td>
+<div align="center"><a href="https://github.com/szumaster1/Vanillavibe"><div align="center">Project</a></td>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 70%; height: 18px; text-align: center;">
-<div align="center"><a href="https://github.com/ModsforModpacks/Vanillavibe/tree/main/1.19.X/Vanillavibe/MODPACK/config"><div align="center">Config</a></td>
+<div align="center"><a href="https://github.com/szumaster1/Vanillavibe/tree/main/1.19.X/Vanillavibe/MODPACK/config"><div align="center">Config</a></td>
 </td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 70%; height: 18px; text-align: center;">
-<div align="center"><a href="https://github.com/ModsforModpacks/Vanillavibe/tree/main/1.19.X/Vanillavibe/MODPACK/kubejs"><div align="center">Scripts</a></td>
+<div align="center"><a href="https://github.com/szumaster1/Vanillavibe/tree/main/1.19.X/Vanillavibe/MODPACK/kubejs"><div align="center">Scripts</a></td>
 
 </td>
 </tr>
 <tr style="height: 100px;">
-<td style="width: 70%; height: 100px;"><a href="https://github.com/ModsforModpacks/Vanillavibe/"><img style="display: block; margin-left: auto; margin-right: auto;" src="" width="200" height="115"/>
+<td style="width: 70%; height: 100px;"><a href="https://github.com/szumaster1/Vanillavibe/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/o0fSkHc.png" width="200" height="115"/>
 </a></td>
 </tr>
 </tbody>
@@ -54,5 +54,5 @@
 </div>
 <div align="center">
    
-This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/ModsforModpacks/Vanillavibe/blob/main/1.19.X/Vanillavibe/LICENSE.md).
+This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/szumaster1/Vanillavibe/blob/main/1.19.X/Vanillavibe/LICENSE.md).
 </div>

@@ -1,0 +1,18 @@
+{
+  "parent": "block/lectern",
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/lectern_book"
+    }
+  ]
+}

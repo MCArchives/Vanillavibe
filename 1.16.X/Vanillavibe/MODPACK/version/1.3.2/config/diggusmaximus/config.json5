@@ -1,0 +1,34 @@
+{
+	// Mod enabled or disabled
+	"enabled": true,
+	// Activation key
+	"keybinding": "key.keyboard.grave.accent",
+	// Inverts the keybinding activation
+	"invertActivation": false,
+	// Should mine diagonally
+	"mineDiag": true,
+	// Maximum number of blocks to mine
+	"maxMinedBlocks": 30,
+	// Maximum distance from start to mine
+	"maxMineDistance": 8,
+	// Automatically pick up drops
+	"autoPickup": true,
+	// Tool required to excavate
+	"requiresTool": false,
+	// Stop before tool breaks
+	"dontBreakTool": true,
+	// Stop excavating when tool breaks
+	"stopOnToolBreak": true,
+	// Should tool take durability
+	"toolDurability": true,
+	// Should player get exhaustion
+	"playerExhaustion": true,
+	// Multiply exhaustion when excavating
+	"exhaustionMultiplier": 28.0,
+	// Other items to be considered tools ie: "minecraft:stick"
+	"tools": [
+		"indrev:mining_drill_mk3",
+		"indrev:mining_drill_mk1",
+		"indrev:mining_drill_mk2"
+	]
+}

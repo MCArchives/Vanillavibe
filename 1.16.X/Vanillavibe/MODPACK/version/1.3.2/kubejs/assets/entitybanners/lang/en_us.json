@@ -1,0 +1,5 @@
+{
+"item.entitybanners.entity_banner": "§6%s Banner",
+"tooltip.entitybanners.nearby_players1":"§7Nearby players get a bonus",
+"tooltip.entitybanners.nearby_players2":"§7against:§r %s"
+}

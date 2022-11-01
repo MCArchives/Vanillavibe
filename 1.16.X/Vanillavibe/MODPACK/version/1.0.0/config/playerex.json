@@ -1,0 +1,12 @@
+{
+  "levelOffset": 2,
+  "levelMultiplier": 2,
+  "resetOnDeath": false,
+  "showLevelNameplates": true,
+  "playLevelUpSound": true,
+  "levelUpVolume": 50,
+  "playSkillUpSound": true,
+  "skillUpVolume": 40,
+  "guiButtonPosX": 155,
+  "guiButtonPosY": 7
+}

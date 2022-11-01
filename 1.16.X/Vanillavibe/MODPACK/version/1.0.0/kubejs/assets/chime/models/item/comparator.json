@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/comparator"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/comparator_on"
+    }
+  ]
+}

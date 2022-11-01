@@ -1,0 +1,29 @@
+{
+	id: "7AA8522E8DBC1AB7"
+	group: "1D7BE9D0B6177E1B"
+	order_index: 2
+	filename: "hunting"
+	title: "Hunting"
+	icon: {
+		id: "ftbquests:custom_icon"
+		Count: 1b
+		tag: {
+			Icon: "untitledduckmod:textures/mob_effect/intimidation.png"
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: 0.5d
+		width: 1.0d
+		height: 1.0d
+		rotation: 0.0d
+		image: "untitledduckmod:textures/mob_effect/intimidation.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [ ]
+}

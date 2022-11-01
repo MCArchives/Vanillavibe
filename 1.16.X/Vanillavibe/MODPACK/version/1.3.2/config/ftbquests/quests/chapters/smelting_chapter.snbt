@@ -1,0 +1,853 @@
+{
+	id: "57E153E6F8953221"
+	group: "1D7BE9D0B6177E1B"
+	order_index: 0
+	filename: "smelting_chapter"
+	title: "&fFurnances"
+	icon: "minecraft:blast_furnace"
+	default_quest_shape: "square"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.5d
+			y: -4.5d
+			dependencies: [
+				"3BDAAC7EEF588682"
+				"01EC846EF13A1A04"
+			]
+			id: "2CE792B9141A06DA"
+			tasks: [{
+				id: "719B8D899AE8F038"
+				type: "item"
+				item: "fabric-furnaces:gold_furnace"
+			}]
+			rewards: [
+				{
+					id: "6E4358CA64368A30"
+					type: "random"
+				}
+				{
+					id: "2E07EBBB9E1024B0"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -6.0d
+			dependencies: [
+				"2CE792B9141A06DA"
+				"3BDAAC7EEF588682"
+				"01EC846EF13A1A04"
+			]
+			id: "66C461243D41BD4D"
+			tasks: [{
+				id: "7B6D906880215CCD"
+				type: "item"
+				item: "fabric-furnaces:diamond_furnace"
+			}]
+			rewards: [
+				{
+					id: "56F7FE0448B136C0"
+					type: "random"
+				}
+				{
+					id: "66EBF793FAD157E7"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -3.0d
+			dependencies: ["01EC846EF13A1A04"]
+			id: "3BDAAC7EEF588682"
+			tasks: [{
+				id: "077B253E94FD9775"
+				type: "item"
+				item: "fabric-furnaces:iron_furnace"
+			}]
+			rewards: [
+				{
+					id: "35E5D639D496DBCF"
+					type: "random"
+				}
+				{
+					id: "1FEF8CBC41D47B30"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			dependencies: ["170C3A3A9699F3F4"]
+			id: "01EC846EF13A1A04"
+			tasks: [{
+				id: "5F796882F919C0C3"
+				type: "item"
+				item: "fabric-furnaces:fabric_furnace"
+			}]
+			rewards: [
+				{
+					id: "2F89C77458BDDC67"
+					type: "random"
+				}
+				{
+					id: "1760823817B7B5F3"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -7.5d
+			dependencies: [
+				"66C461243D41BD4D"
+				"2CE792B9141A06DA"
+				"3BDAAC7EEF588682"
+				"01EC846EF13A1A04"
+			]
+			id: "4E8497E3BA683A37"
+			tasks: [{
+				id: "77AE7E957BC44486"
+				type: "item"
+				item: "fabric-furnaces:obsidian_furnace"
+			}]
+			rewards: [
+				{
+					id: "12A43CA5CB49B282"
+					type: "random"
+				}
+				{
+					id: "349ACF8B3E6CD0FF"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -9.0d
+			dependencies: [
+				"4E8497E3BA683A37"
+				"66C461243D41BD4D"
+				"2CE792B9141A06DA"
+				"3BDAAC7EEF588682"
+				"01EC846EF13A1A04"
+			]
+			id: "72534D389CD7ECB3"
+			tasks: [{
+				id: "039B419321CAA1F7"
+				type: "item"
+				item: "fabric-furnaces:nether_furnace"
+			}]
+			rewards: [
+				{
+					id: "05063B1F9F1ECBE0"
+					type: "random"
+				}
+				{
+					id: "3341FF2BB50C48EB"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -1.5d
+			dependencies: ["01EC846EF13A1A04"]
+			id: "60BC90D21659A201"
+			tasks: [{
+				id: "24F860D426C35237"
+				type: "item"
+				item: "fabric-furnaces:crystal_fabric_furnace"
+			}]
+			rewards: [
+				{
+					id: "2E4B3B730817E582"
+					type: "random"
+				}
+				{
+					id: "7DAB3A0EE5C49702"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -3.0d
+			dependencies: ["3BDAAC7EEF588682"]
+			id: "542A4FB92F6DF7F9"
+			tasks: [{
+				id: "729CD5CD1E048FE7"
+				type: "item"
+				item: "fabric-furnaces:crystal_iron_furnace"
+			}]
+			rewards: [
+				{
+					id: "5B2B1F82014F9164"
+					type: "random"
+				}
+				{
+					id: "262AF42E50C39EB5"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -4.5d
+			dependencies: ["2CE792B9141A06DA"]
+			id: "721EF168ABEB99DF"
+			tasks: [{
+				id: "539CC77CB932D93E"
+				type: "item"
+				item: "fabric-furnaces:crystal_gold_furnace"
+			}]
+			rewards: [
+				{
+					id: "5C1F6FA586451781"
+					type: "random"
+				}
+				{
+					id: "01B960945F85D083"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -6.0d
+			dependencies: ["66C461243D41BD4D"]
+			id: "295349E1E13129E5"
+			tasks: [{
+				id: "2F7CE7803832CB0C"
+				type: "item"
+				item: "fabric-furnaces:crystal_diamond_furnace"
+			}]
+			rewards: [
+				{
+					id: "4D792C5471C3EA36"
+					type: "random"
+				}
+				{
+					id: "2846D804F2F0F843"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -7.5d
+			dependencies: ["4E8497E3BA683A37"]
+			id: "68CD1AD80618B869"
+			tasks: [{
+				id: "09972E1DEDD41895"
+				type: "item"
+				item: "fabric-furnaces:crystal_obsidian_furnace"
+			}]
+			rewards: [
+				{
+					id: "6BC6F166E6A40A9F"
+					type: "random"
+				}
+				{
+					id: "768223C708411301"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -9.0d
+			dependencies: ["72534D389CD7ECB3"]
+			id: "5ADDB5AA6259521F"
+			tasks: [{
+				id: "653A60F77FFC5348"
+				type: "item"
+				item: "fabric-furnaces:crystal_nether_furnace"
+			}]
+			rewards: [
+				{
+					id: "151C87BC1C4D7F4A"
+					type: "random"
+				}
+				{
+					id: "0C516DC08C243631"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -10.5d
+			dependencies: [
+				"72534D389CD7ECB3"
+				"4E8497E3BA683A37"
+				"66C461243D41BD4D"
+				"2CE792B9141A06DA"
+				"3BDAAC7EEF588682"
+				"01EC846EF13A1A04"
+			]
+			id: "0FB0DFEA1E3DC1E9"
+			tasks: [{
+				id: "7F6609C46AAEB91D"
+				type: "item"
+				item: "fabric-furnaces:emerald_furnace"
+			}]
+			rewards: [
+				{
+					id: "0C1702D598D371FD"
+					type: "random"
+				}
+				{
+					id: "7AFF5915A68F3323"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -12.0d
+			dependencies: [
+				"0FB0DFEA1E3DC1E9"
+				"72534D389CD7ECB3"
+				"4E8497E3BA683A37"
+				"66C461243D41BD4D"
+				"2CE792B9141A06DA"
+				"3BDAAC7EEF588682"
+				"01EC846EF13A1A04"
+			]
+			id: "309A01E85D308B83"
+			tasks: [{
+				id: "67E27646499668A7"
+				type: "item"
+				item: "fabric-furnaces:end_furnace"
+			}]
+			rewards: [
+				{
+					id: "7455951396926EF7"
+					type: "random"
+				}
+				{
+					id: "34CB57E7D178EAE1"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -13.5d
+			dependencies: [
+				"309A01E85D308B83"
+				"66C461243D41BD4D"
+				"0FB0DFEA1E3DC1E9"
+				"2CE792B9141A06DA"
+				"3BDAAC7EEF588682"
+				"72534D389CD7ECB3"
+				"4E8497E3BA683A37"
+				"01EC846EF13A1A04"
+			]
+			id: "50B86A8FD8B3BC81"
+			tasks: [{
+				id: "5C84B0C02E9B6994"
+				type: "item"
+				item: "fabric-furnaces:ethereal_furnace"
+			}]
+			rewards: [
+				{
+					id: "2E4335EFD5374BBF"
+					type: "random"
+				}
+				{
+					id: "1ADF2A582A7889CA"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -10.5d
+			dependencies: ["0FB0DFEA1E3DC1E9"]
+			id: "3C33E3C78660B7DE"
+			tasks: [{
+				id: "1BEDB18074AF11E7"
+				type: "item"
+				item: "fabric-furnaces:crystal_emerald_furnace"
+			}]
+			rewards: [
+				{
+					id: "58982577FE5FF59A"
+					type: "random"
+				}
+				{
+					id: "13EACD1A99F41B3F"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -12.0d
+			dependencies: ["309A01E85D308B83"]
+			id: "7F076C87DCFF99E9"
+			tasks: [{
+				id: "4C11CC99086073BC"
+				type: "item"
+				item: "fabric-furnaces:crystal_end_furnace"
+			}]
+			rewards: [
+				{
+					id: "52E2F34D1A641FDD"
+					type: "random"
+				}
+				{
+					id: "4165B6BC719E1EE8"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -13.5d
+			dependencies: ["50B86A8FD8B3BC81"]
+			id: "21D3C24B05CA61D4"
+			tasks: [{
+				id: "626D1B916C121B15"
+				type: "item"
+				item: "fabric-furnaces:crystal_ethereal_furnace"
+			}]
+			rewards: [
+				{
+					id: "5F6F0C8FB1FCB0C3"
+					type: "random"
+				}
+				{
+					id: "5BDB47536162A3E9"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			hide_dependency_lines: false
+			dependencies: ["170C3A3A9699F3F4"]
+			dependency_requirement: "one_completed"
+			id: "6FF921F4FAC54ECD"
+			tasks: [{
+				id: "5303ACF9EFBCA471"
+				type: "item"
+				item: "minecraft:blast_furnace"
+			}]
+			rewards: [
+				{
+					id: "1C5B4091D57B0BB9"
+					type: "random"
+				}
+				{
+					id: "2E6E13114C98C05C"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -4.5d
+			dependencies: [
+				"1CB4553CA27F062C"
+				"6FF921F4FAC54ECD"
+				"170C3A3A9699F3F4"
+			]
+			id: "4CCF7E21DF97554B"
+			tasks: [{
+				id: "0786205E43537BF2"
+				type: "item"
+				item: "betterend:flavolite_furnace"
+			}]
+			rewards: [
+				{
+					id: "30BC5AEE2CF6BA93"
+					type: "random"
+				}
+				{
+					id: "5C26704FA42BA30D"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -7.5d
+			dependencies: [
+				"5242A3F0B5EF841C"
+				"6FF921F4FAC54ECD"
+				"4CCF7E21DF97554B"
+				"1CB4553CA27F062C"
+				"170C3A3A9699F3F4"
+			]
+			id: "0A1EA356C8EB341F"
+			tasks: [{
+				id: "407214B481F7DACB"
+				type: "item"
+				item: "betterend:violecite_furnace"
+			}]
+			rewards: [
+				{
+					id: "027F9B22C733856A"
+					type: "random"
+				}
+				{
+					id: "21C80A504F42B2BC"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -12.0d
+			dependencies: [
+				"78EA4EDF81100064"
+				"6FF921F4FAC54ECD"
+				"0A1EA356C8EB341F"
+				"51399856CFABDDE4"
+				"170C3A3A9699F3F4"
+				"4CCF7E21DF97554B"
+				"1CB4553CA27F062C"
+				"5242A3F0B5EF841C"
+			]
+			dependency_requirement: "one_started"
+			id: "1BE1A231F91F92A2"
+			tasks: [{
+				id: "6719949B56A7A8EB"
+				type: "item"
+				item: "betterend:sulphuric_rock_furnace"
+			}]
+			rewards: [
+				{
+					id: "439986AE1C8DB794"
+					type: "random"
+				}
+				{
+					id: "7987BFD523B30250"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -9.0d
+			dependencies: [
+				"0A1EA356C8EB341F"
+				"6FF921F4FAC54ECD"
+				"170C3A3A9699F3F4"
+				"4CCF7E21DF97554B"
+				"1CB4553CA27F062C"
+			]
+			id: "51399856CFABDDE4"
+			tasks: [{
+				id: "375E4C243F9BA3DF"
+				type: "item"
+				item: "betterend:virid_jadestone_furnace"
+			}]
+			rewards: [
+				{
+					id: "289173419E4D2935"
+					type: "random"
+				}
+				{
+					id: "49BF1EE19BE3CA83"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -10.5d
+			dependencies: [
+				"51399856CFABDDE4"
+				"0A1EA356C8EB341F"
+				"6FF921F4FAC54ECD"
+				"4CCF7E21DF97554B"
+				"1CB4553CA27F062C"
+				"170C3A3A9699F3F4"
+			]
+			id: "78EA4EDF81100064"
+			tasks: [{
+				id: "4CF1A2AF622E040B"
+				type: "item"
+				item: "betterend:azure_jadestone_furnace"
+			}]
+			rewards: [
+				{
+					id: "7E332610BE45B9E4"
+					type: "random"
+				}
+				{
+					id: "101CB4C9C6F741CF"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -6.0d
+			dependencies: [
+				"4CCF7E21DF97554B"
+				"6FF921F4FAC54ECD"
+				"170C3A3A9699F3F4"
+				"1CB4553CA27F062C"
+			]
+			id: "5242A3F0B5EF841C"
+			tasks: [{
+				id: "38205A0EF3D38F6F"
+				type: "item"
+				item: "betterend:sandy_jadestone_furnace"
+			}]
+			rewards: [
+				{
+					id: "7C44C2B92E8AE342"
+					type: "random"
+					team_reward: false
+					auto: "disabled"
+				}
+				{
+					id: "1C939ED35F5FE4C9"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			dependencies: [
+				"6FF921F4FAC54ECD"
+				"170C3A3A9699F3F4"
+			]
+			id: "1CB4553CA27F062C"
+			tasks: [{
+				id: "70AB8CB327801792"
+				type: "item"
+				item: "betterend:end_stone_furnace"
+			}]
+			rewards: [
+				{
+					id: "1A8DD62A3EC48375"
+					type: "random"
+				}
+				{
+					id: "1D86C8F7DA19F53A"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: -1.5d
+			dependencies: ["170C3A3A9699F3F4"]
+			id: "758E184ED69F054F"
+			tasks: [{
+				id: "6EEA48A8A99006A3"
+				type: "item"
+				item: "minecraft:minecart"
+			}]
+			rewards: [
+				{
+					id: "1D058AB659C0EF41"
+					type: "random"
+				}
+				{
+					id: "4734CE9EC80D8E4C"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			subtitle: "Start Quest"
+			id: "170C3A3A9699F3F4"
+			tasks: [{
+				id: "5300F23226154EFA"
+				type: "item"
+				item: "minecraft:furnace"
+			}]
+			rewards: [
+				{
+					id: "5E35AD0FFE4B8819"
+					type: "random"
+				}
+				{
+					id: "384BC4BBEED8A791"
+					type: "random"
+				}
+			]
+		}
+		{
+			title: "&9Final Quest"
+			x: 1.5d
+			y: -17.5d
+			subtitle: "&cCongratulations! &fThat was the last assignment in this chapter, good luck in the next tasks!"
+			dependencies: [
+				"50B86A8FD8B3BC81"
+				"21D3C24B05CA61D4"
+				"1BE1A231F91F92A2"
+				"470C74570CE78B58"
+			]
+			id: "7371A466F2631373"
+			tasks: [{
+				id: "4B4C68FB09869502"
+				type: "item"
+				item: "minecraft:tnt_minecart"
+			}]
+			rewards: [{
+				id: "74E7E065270558C4"
+				type: "item"
+				item: "minecraft:command_block_minecart"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -3.0d
+			dependencies: ["758E184ED69F054F"]
+			id: "597FACC48F3E05F8"
+			tasks: [{
+				id: "2568850977B07C58"
+				type: "item"
+				item: "minecraft:chest_minecart"
+			}]
+			rewards: [
+				{
+					id: "19A47B82D8398F15"
+					type: "random"
+				}
+				{
+					id: "35397D4A795BD2A7"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: -4.5d
+			dependencies: [
+				"597FACC48F3E05F8"
+				"758E184ED69F054F"
+			]
+			id: "7D4DAE79523E07EB"
+			tasks: [{
+				id: "7584F9D35384BC36"
+				type: "item"
+				item: "minecraft:furnace_minecart"
+			}]
+			rewards: [
+				{
+					id: "33CD7ADB2A48EEAF"
+					type: "random"
+				}
+				{
+					id: "5076BDEAB9FE0EA5"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: -12.0d
+			dependencies: [
+				"3FC8B66ACEABCBEB"
+				"597FACC48F3E05F8"
+				"7D4DAE79523E07EB"
+				"758E184ED69F054F"
+				"2B227B115249CED2"
+			]
+			id: "470C74570CE78B58"
+			tasks: [{
+				id: "75D250E1713E44D1"
+				type: "item"
+				item: "sandwichable:sandwich_table_minecart"
+			}]
+			rewards: [
+				{
+					id: "70FC3FF97AB4CA6E"
+					type: "random"
+				}
+				{
+					id: "5E53784D59AB3311"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: -6.0d
+			dependencies: [
+				"7D4DAE79523E07EB"
+				"597FACC48F3E05F8"
+				"758E184ED69F054F"
+			]
+			id: "3FC8B66ACEABCBEB"
+			tasks: [{
+				id: "2951E3B22F65C90D"
+				type: "item"
+				item: "minecraft:hopper_minecart"
+			}]
+			rewards: [
+				{
+					id: "3F5E936A5934FBA1"
+					type: "random"
+				}
+				{
+					id: "63464200AB2099A7"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 1.5d
+			dependencies: ["170C3A3A9699F3F4"]
+			id: "3D482A60B7B79E5C"
+			tasks: [{
+				id: "73F4B51A736631ED"
+				type: "item"
+				item: "minecraft:smoker"
+			}]
+			rewards: [
+				{
+					id: "54F085118D1F6CDE"
+					type: "random"
+				}
+				{
+					id: "2A71D9D3C0F40704"
+					type: "random"
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: -7.5d
+			dependencies: [
+				"758E184ED69F054F"
+				"3FC8B66ACEABCBEB"
+				"597FACC48F3E05F8"
+			]
+			id: "2B227B115249CED2"
+			tasks: [{
+				id: "267F269F8EEC31EC"
+				type: "item"
+				item: "etched:jukebox_minecart"
+			}]
+			rewards: [
+				{
+					id: "0E00214F65399F1B"
+					type: "random"
+				}
+				{
+					id: "3DB30B757A5ADB4D"
+					type: "random"
+				}
+			]
+		}
+	]
+}

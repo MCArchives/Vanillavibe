@@ -1,0 +1,16 @@
+{
+  "type": "indrev:infuse",
+  "ingredients": [
+    {
+      "tag": "c:lapis_dust"
+    },
+    {
+      "tag": "c:iron_dusts"
+    }
+  ],
+  "output": {
+    "item": "techreborn:aluminum_dust",
+    "count": 2
+  },
+  "processTime": 600
+}

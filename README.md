@@ -4,7 +4,7 @@
 
 
 [![](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-round)](https://fabricmc.net/)
-[![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/szumaster/Vanillavibe/blob/main/LICENSE.md)
+[![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/szumaster1/Vanillavibe/blob/main/LICENSE.md)
   
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -18,5 +18,5 @@
   
  <div align="center">
    
-This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/szumaster1/vanillavibe/blob/main/LICENSE.md).
+This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/szumaster1/Vanillavibe/tree/main/LICENSE).
 </div>

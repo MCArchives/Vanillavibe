@@ -1,0 +1,34 @@
+[
+  {
+    "id": "appliedenergistics2",
+    "enabled": true
+  },
+  {
+    "id": "fabric-furnaces",
+    "enabled": true
+  },
+  {
+    "id": "fastbench",
+    "enabled": true
+  },
+  {
+    "id": "fastfurnace",
+    "enabled": true
+  },
+  {
+    "id": "improved-stations",
+    "enabled": true
+  },
+  {
+    "id": "ironfurnaces",
+    "enabled": true
+  },
+  {
+    "id": "roughlyenoughitems-runtime",
+    "enabled": true
+  },
+  {
+    "id": "toms_storage",
+    "enabled": true
+  }
+]

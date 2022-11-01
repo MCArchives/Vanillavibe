@@ -1,0 +1,11 @@
+{
+  "type": "indrev:pulverize",
+  "ingredients": {
+    "tag": "c:lead_ingots"
+  },
+  "output": {
+    "item": "techreborn:lead_dust",
+    "count": 1
+  },
+  "processTime": 150
+}

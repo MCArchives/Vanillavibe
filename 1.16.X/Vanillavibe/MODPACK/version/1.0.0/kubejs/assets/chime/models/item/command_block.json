@@ -1,0 +1,18 @@
+{
+  "parent": "block/command_block",
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/command_block_conditional"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "block/dropper",
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/dropper_vertical"
+    }
+  ]
+}

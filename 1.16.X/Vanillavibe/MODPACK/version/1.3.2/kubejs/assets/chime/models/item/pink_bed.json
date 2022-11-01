@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/template_bed",
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+            "\"(+NBT)\""
+            ]
+          }
+        }
+      },
+
+    "model": "minecraft:item/nbt/beds/pink"
+    }
+  ]
+}

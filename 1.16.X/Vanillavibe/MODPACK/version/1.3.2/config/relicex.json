@@ -1,0 +1,8 @@
+{
+  "monstersDropRelicsChance": 2,
+  "monstersDropHealsChance": 3,
+  "monstersDropLesserOrbChance": 3,
+  "monstersDropGreaterOrbChance": 1,
+  "monstersDropTome": 1,
+  "dragonDropsStone": true
+}

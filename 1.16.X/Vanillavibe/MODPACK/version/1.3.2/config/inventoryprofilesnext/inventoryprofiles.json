@@ -1,0 +1,20 @@
+{
+    "ModSettings": {
+        "always_move_all": true,
+        "enable_profiles": false,
+        "enable_auto_refill": false,
+        "enable_updates_check": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "enable_profiles_announcement": false,
+        "enable_inventory_buttons": false,
+        "continuous_crafting_saved_value": false,
+        "show_button_tooltips": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": false,
+        "refill_before_tool_break": false
+    }
+}

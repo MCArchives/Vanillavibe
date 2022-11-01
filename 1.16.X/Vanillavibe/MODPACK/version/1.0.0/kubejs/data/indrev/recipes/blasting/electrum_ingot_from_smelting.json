@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "group": "electrum_ingots",
+  "ingredient": {
+    "tag": "c:electrum_dusts"
+  },
+  "result": "techreborn:electrum_ingot",
+  "cookingTime": 200
+}
