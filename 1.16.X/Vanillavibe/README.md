@@ -10,50 +10,37 @@
     <tbody>
       <tr style="height: 18px;">
         <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center">1.16.x</div>
+          <div align="center">1.16.X</a>
         </td>
       </tr>
       <tr style="height: 18px;">
         <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe/blob/main/1.16.X/Vanillavibe/MODPACK/MODLIST.md">
-              <div align="center">Modlist
+          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe/blob/main/1.16.X/Vanillavibe/MODPACK/MODLIST.md">Modlist</a>
+        </td>
+        </td>
+      </tr>
+      <tr style="height: 18px;">
+        <td style="width: 70%; height: 18px; text-align: center;">
+          <div align="center"><a href="https://github.com/szumaster1/vanillavibe/blob/main/1.16.X/Vanillavibe/DEVELOPERS.md">Developers</a>
+        </td>
+        </td>
+      </tr>
+      <tr style="height: 18px;">
+        <td style="width: 70%; height: 18px; text-align: center;">
+          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe">Project</a>
+        </td>
+        </td>
+      </tr>
+      <tr style="height: 18px;">
+        <td style="width: 70%; height: 18px; text-align: center;">
+          <div align="center"><a href="https://github.com/szumaster1/vanillavibe/tree/main/1.16.X/Vanillavibe/MODPACK/version/1.0.0/config">Config
             </a>
         </td>
         </td>
       </tr>
       <tr style="height: 18px;">
         <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe/blob/main/1.16.X/Vanillavibe/DEVELOPERS.md">
-              <div align="center">Developers
-            </a>
-        </td>
-        </td>
-      </tr>
-      <tr style="height: 18px;">
-        <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center">Wikipedia</div>
-        </td>
-      </tr>
-      <tr style="height: 18px;">
-        <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe">
-              <div align="center">Project
-            </a>
-        </td>
-        </td>
-      </tr>
-      <tr style="height: 18px;">
-        <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe/tree/main/1.16.X/Vanillavibe/MODPACK/config">
-              <div align="center">Config
-            </a>
-        </td>
-        </td>
-      </tr>
-      <tr style="height: 18px;">
-        <td style="width: 70%; height: 18px; text-align: center;">
-          <div align="center"><a href="https://github.com/szumaster1/Vanillavibe/tree/main/1.16.X/Vanillavibe/MODPACK/kubejs">
-              <div align="center">Scripts
+          <div align="center"><a href="https://github.com/szumaster1/vanillavibe/tree/main/1.16.X/Vanillavibe/MODPACK/version/1.0.0/kubejs">Scripts</a>
             </a>
         </td>
         </td>
