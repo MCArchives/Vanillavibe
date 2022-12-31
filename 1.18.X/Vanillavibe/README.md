@@ -48,5 +48,5 @@
 </div>
 <div align="center">
    
-This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/ModsforModpacks/Vanillavibe/blob/main/1.18.X/Vanillavibe/LICENSE.md).
+This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/MCArchives/Vanillavibe/blob/main/1.18.X/Vanillavibe/LICENSE.md).
 </div>

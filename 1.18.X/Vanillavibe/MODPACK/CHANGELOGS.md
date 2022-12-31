@@ -2,9 +2,9 @@
 
 Changelogs:
 
-- add [1.18.2](https://github.com/ModsforModpacks/Vanillavibe/tree/main/1.18.X) project,
+- add [1.18.2](https://github.com/MCArchives/Vanillavibe/tree/main/1.18.X) project,
 - basic configuration,
-- first unofficial release: [modlist](https://github.com/ModsforModpacks/Vanillavibe/blob/main/1.18.X/Vanillavibe/MODPACK/MODLIST.md) & [download](https://github.com/ModsforModpacks/Vanillavibe/files/8833057/Vanillavibe.zip).
+- first unofficial release: [modlist](https://github.com/MCArchives/Vanillavibe/blob/main/1.18.X/Vanillavibe/MODPACK/MODLIST.md) & [download](https://github.com/MCArchives/Vanillavibe/files/8833057/Vanillavibe.zip).
 
 ## [0.1.01] - 04/06/2022
 

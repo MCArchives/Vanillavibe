@@ -44,7 +44,7 @@ mainMenu {
         width = 100
         height = 20
         text = literal("Source")
-        onClicked = url("https://github.com/ModsforModpacks/Vanillavibe/tree/1.18.x")
+        onClicked = url("https://github.com/MCArchives/Vanillavibe/tree/1.18.x")
     }
     button {
         position {
@@ -54,7 +54,7 @@ mainMenu {
         width = 100
         height = 20
         text = literal("Wikipedia")
-        onClicked = url("https://github.com/ModsforModpacks/Vanillavibe/wiki")
+        onClicked = url("https://github.com/MCArchives/Vanillavibe/wiki")
     }
     button {
         position {
