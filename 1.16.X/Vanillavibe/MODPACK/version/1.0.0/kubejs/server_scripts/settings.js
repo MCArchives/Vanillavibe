@@ -5,7 +5,7 @@ settings.logErroringRecipes = true
 
 console.info('Applied settings...')
 //╔════════════════════════════════════════╗
-//║             CREATED BY CSS             ║
+//║             CREATED BY SZU             ║
 //╚════════════════════════════════════════╝
 //╔════════════════════════════════════════╗
 //║     GNU Free Documentation License     ║

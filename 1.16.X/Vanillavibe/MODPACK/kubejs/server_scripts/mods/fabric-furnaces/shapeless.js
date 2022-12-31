@@ -1,12 +1,12 @@
 //+----------------------------------------+
-//¦         Copyright © 2021 CSS           ¦
+//ï¿½         Copyright ï¿½ 2021 SZU           ï¿½
 //+----------------------------------------+
 //+----------------------------------------+
-//¦     GNU Free Documentation License     ¦
+//ï¿½     GNU Free Documentation License     ï¿½
 //+----------------------------------------+
 events.listen("recipes", function (event) {
 //+----------------------------------------+
-//¦            FABRIC FURNACES             ¦
+//ï¿½            FABRIC FURNACES             ï¿½
 //+----------------------------------------+
  event.shapeless('fabric-furnaces:iron_furnace', ['fabric-furnaces:crystal_iron_furnace'])
  event.shapeless('fabric-furnaces:ethereal_furnace', ['fabric-furnaces:crystal_ethereal_furnace'])

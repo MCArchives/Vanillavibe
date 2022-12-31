@@ -1,5 +1,5 @@
 // Here is the groovy file for screen elements
-info("Copyright © 2021 Team CSS. All right reserved.")
+info("Copyright © 2023 Team CSS. All right reserved.")
 mainMenu {
     enabled = true
     splashText {

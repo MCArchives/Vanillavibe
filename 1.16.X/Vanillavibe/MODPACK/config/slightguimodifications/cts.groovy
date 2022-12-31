@@ -1,4 +1,4 @@
-info("Copyright © 2022 Team CSS. All right reserved.")
+info("Copyright © 2023 Team CSS. All right reserved.")
 mainMenu {
   enabled = true
   splashText {
@@ -66,7 +66,7 @@ mainMenu {
     height = 20
 
     text = literal("Source")
-    onClicked = url("https://github.com/szumaster/vanillavibe/tree/1.16.5")
+    onClicked = url("https://github.com/MCArchives/vanillavibe/tree/1.16.5")
   }
   button {
     position {

@@ -1,11 +1,11 @@
 //+----------------------------------------+
-//¦            Created by CSS              ¦
+//ï¿½            Created by SZU              ï¿½
 //+----------------------------------------+
 
 onEvent("item.registry", event => {
 	
 //+----------------------------------------+
-//¦            EMERALD SWORD               ¦
+//ï¿½            EMERALD SWORD               ï¿½
 //+----------------------------------------+
 
  event.create('emerald_sword').tier('emerald_set').displayName('Emerald Sword').type('sword').unstackable().group('combat');

@@ -1,13 +1,13 @@
 //+----------------------------------------+
-//¦         Copyright © 2021 CSS           ¦
+//ï¿½         Copyright ï¿½ 2021 SZU           ï¿½
 //+----------------------------------------+
 //+----------------------------------------+
-//¦     GNU Free Documentation License     ¦
+//ï¿½     GNU Free Documentation License     ï¿½
 //+----------------------------------------+
 events.listen("recipes", function (event) {
 
 //+----------------------------------------+
-//¦         MYSTICAL AGRICULTURE           ¦
+//ï¿½         MYSTICAL AGRICULTURE           ï¿½
 //+----------------------------------------+
 
 event.recipes.modern_industrialization.macerator({

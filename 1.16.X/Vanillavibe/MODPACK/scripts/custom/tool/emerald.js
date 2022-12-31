@@ -1,11 +1,11 @@
 //+----------------------------------------+
-//¦            Created by CSS              ¦
+//ï¿½            Created by SZU              ï¿½
 //+----------------------------------------+
 
 onEvent('item.registry.tool_tiers', event => {
 
 //+----------------------------------------+
-//¦           EMERALD TOOLS                ¦
+//ï¿½           EMERALD TOOLS                ï¿½
 //+----------------------------------------+
 
   event.add('emerald_tools', tier => {

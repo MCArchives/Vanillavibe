@@ -1,4 +1,4 @@
-info("Copyright © 2022 Team CSS. All right reserved.")
+info("Copyright © 2023 Team CSS. All right reserved.")
 mainMenu {
   enabled = true
   splashText {

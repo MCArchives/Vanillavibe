@@ -4,7 +4,7 @@ settings.logRemovedRecipes = true
 settings.logSkippedRecipes = false
 settings.logErroringRecipes = true
 //╔════════════════════════════════════════╗
-//║         Copyright © 2021 CSS           ║
+//║         Copyright © 2021 SZU           ║
 //╚════════════════════════════════════════╝
 //╔════════════════════════════════════════╗
 //║     GNU Free Documentation License     ║

@@ -1,5 +1,5 @@
 //╔════════════════════════════════════════╗
-//║            Created by CSS              ║
+//║            Created by SZU              ║
 //╚════════════════════════════════════════╝
 
 onEvent('item.registry.armor_tiers', event => {

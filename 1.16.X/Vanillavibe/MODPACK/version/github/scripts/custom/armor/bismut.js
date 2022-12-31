@@ -1,11 +1,11 @@
 //+----------------------------------------+
-//¦            Created by CSS              ¦
+//ï¿½            Created by SZU              ï¿½
 //+----------------------------------------+
 
 onEvent('item.registry.armor_tiers', event => {
 
 //+----------------------------------------+
-//¦          BISMUTH EQUIPMENT             ¦
+//ï¿½          BISMUTH EQUIPMENT             ï¿½
 //+----------------------------------------+
 
 	event.add('bismut_set', tier => {

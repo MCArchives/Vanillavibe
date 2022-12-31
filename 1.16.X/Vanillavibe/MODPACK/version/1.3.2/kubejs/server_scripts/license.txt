@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════╗
-║       Copyright (C) 2021 CSS.          ║
+║       Copyright (C) 2021 SZU.          ║
 ╚════════════════════════════════════════╝
 
 Permission is granted to copy, distribute and/or modify this document
